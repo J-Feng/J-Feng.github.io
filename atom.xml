@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://j-feng.github.io/"/>
-  <updated>2018-01-13T16:02:22.493Z</updated>
+  <updated>2018-01-30T15:01:59.189Z</updated>
   <id>https://j-feng.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HOWTO Startup A Hexo Blog</title>
+    <link href="https://j-feng.github.io/2018/01/14/howto-hexo/"/>
+    <id>https://j-feng.github.io/2018/01/14/howto-hexo/</id>
+    <published>2018-01-14T10:24:02.000Z</published>
+    <updated>2018-01-30T15:01:59.189Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;环境&quot;&gt;&lt;a href=&quot;#环境&quot; class=&quot;headerlink&quot; title=&quot;环境&quot;&gt;&lt;/a&gt;环境&lt;/h2&gt;&lt;p&gt;OS: MacOS 10.13.2&lt;br&gt;nvm: 0.33.2&lt;br&gt;nodejs: v9.4.0&lt;br&gt;npm:
+        
+      
+    
+    </summary>
+    
+      <category term="HOWTO" scheme="https://j-feng.github.io/categories/HOWTO/"/>
+    
+    
+      <category term="hexo" scheme="https://j-feng.github.io/tags/hexo/"/>
+    
+      <category term="howto" scheme="https://j-feng.github.io/tags/howto/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
