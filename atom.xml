@@ -38,9 +38,9 @@
       <category term="HOWTO" scheme="https://j-feng.github.io/categories/HOWTO/"/>
     
     
-      <category term="hexo" scheme="https://j-feng.github.io/tags/hexo/"/>
-    
       <category term="howto" scheme="https://j-feng.github.io/tags/howto/"/>
+    
+      <category term="hexo" scheme="https://j-feng.github.io/tags/hexo/"/>
     
   </entry>
   
@@ -49,7 +49,7 @@
     <link href="https://j-feng.github.io/2018/01/14/hello-world/"/>
     <id>https://j-feng.github.io/2018/01/14/hello-world/</id>
     <published>2018-01-13T16:02:22.493Z</published>
-    <updated>2018-01-13T16:02:22.493Z</updated>
+    <updated>2018-02-02T15:37:19.047Z</updated>
     
     <summary type="html">
     
@@ -63,6 +63,16 @@
     
     </summary>
     
+      <category term="Reference" scheme="https://j-feng.github.io/categories/Reference/"/>
+    
+    
+      <category term="howto" scheme="https://j-feng.github.io/tags/howto/"/>
+    
+      <category term="ref" scheme="https://j-feng.github.io/tags/ref/"/>
+    
+      <category term="markdown" scheme="https://j-feng.github.io/tags/markdown/"/>
+    
+      <category term="hexo" scheme="https://j-feng.github.io/tags/hexo/"/>
     
   </entry>
   
