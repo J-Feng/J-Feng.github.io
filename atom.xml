@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://j-feng.github.io/"/>
-  <updated>2018-01-30T15:01:59.189Z</updated>
+  <updated>2018-02-06T13:45:53.879Z</updated>
   <id>https://j-feng.github.io/</id>
   
   <author>
@@ -21,17 +21,11 @@
     <link href="https://j-feng.github.io/2018/01/14/howto-hexo/"/>
     <id>https://j-feng.github.io/2018/01/14/howto-hexo/</id>
     <published>2018-01-14T10:24:02.000Z</published>
-    <updated>2018-01-30T15:01:59.189Z</updated>
+    <updated>2018-02-06T13:45:53.879Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;环境&quot;&gt;&lt;a href=&quot;#环境&quot; class=&quot;headerlink&quot; title=&quot;环境&quot;&gt;&lt;/a&gt;环境&lt;/h2&gt;&lt;p&gt;OS: MacOS 10.13.2&lt;br&gt;nvm: 0.33.2&lt;br&gt;nodejs: v9.4.0&lt;br&gt;npm:
-        
-      
+      &lt;p&gt;基于Github Pages和Hexo搭建静态blog的最基本流程。&lt;/p&gt;
     
     </summary>
     
@@ -49,17 +43,11 @@
     <link href="https://j-feng.github.io/2018/01/14/hello-world/"/>
     <id>https://j-feng.github.io/2018/01/14/hello-world/</id>
     <published>2018-01-13T16:02:22.493Z</published>
-    <updated>2018-02-02T15:37:19.047Z</updated>
+    <updated>2018-02-06T13:43:03.888Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
+      &lt;p&gt;本文汇总了Markdown语法以及Hexo支持的标签插件，可以作为一个写作时的reference，免去反复查找相关资料的麻烦。&lt;/p&gt;
     
     </summary>
     
